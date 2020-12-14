@@ -1,0 +1,23 @@
+body {
+  color: White;
+  font-size: 25px;
+}
+
+.button {
+  background-color: #b19cd9;
+  border: white;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+h2 {text-align: center;
+font-size: 35px;}
+p {text-align: center;}
+div {text-align: center;}
+title {text-align: center;}
